@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:grid_view/ui/screen.dart';
 Future<void> main() async {
-  runApp(MyApp());
+  runApp(const MyApp());
 }
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
